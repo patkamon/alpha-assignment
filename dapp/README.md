@@ -2,13 +2,16 @@
 
 First, make sure you use same node version run
 
-```nvm install 18.19.0
+```
+nvm install 18.19.0
 # then
 nvm use 18.19.0
 ```
 
 next install dependencies
-``` npm i```
+``` 
+npm i
+```
 
 then run server
 
