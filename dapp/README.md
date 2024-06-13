@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="overview.gif" alt="animated" />
+</p>
+
+
+
 ## Getting Started
 
 First, make sure you use same node version run
